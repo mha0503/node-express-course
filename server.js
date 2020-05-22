@@ -20,6 +20,8 @@ const mockUserData=[
             user: req.params.id
         })
     })
+
+    
 app.listen(8000,function(){
     console.log("server is running")
     })
